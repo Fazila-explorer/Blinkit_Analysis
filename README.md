@@ -1,2 +1,2 @@
 # Blinkit_Analysis
-This is a blinkit analysis project
+This project analyzes Blinkit grocery sales across outlet types, sizes, locations, and product categories to show where sales come from. It uses Excel for data review and Power BI for cleaning, KPIs, and an interactive dashboard. Key findings: sales are driven by volume (average sales per item are about $140 across all outlet types), Tier 3 locations lead at 39.3% of sales, and Fruits & Vegetables plus Snack Foods are the top categories.
